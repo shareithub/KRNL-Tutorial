@@ -19,6 +19,15 @@
 
 [OASIS FAUCET (SHAPPIRE)](https://faucet.testnet.oasis.dev/)
 
+# CLONE THIS REPOSITORY
+```
+https://github.com/KRNL-Labs/10-minutes-tutorial.git
+```
+# COPY THIS CONFIG :
+```
+smart-contracts/remix-ide/compiler_config.json
+```
+
 # CHECK YOUR PUB KEY :
 
 ```
