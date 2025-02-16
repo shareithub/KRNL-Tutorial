@@ -2,7 +2,7 @@
 
 [ DEPLOY IN REMIX](https://remix.ethereum.org/)
 
-#Setup RPC in Wallet :
+# Setup RPC in Wallet :
 - Network name: Oasis Sapphire Testnet
 
 - RPC: https://testnet.sapphire.oasis.io
