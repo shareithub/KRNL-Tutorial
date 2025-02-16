@@ -2,6 +2,8 @@
 
 [ DEPLOY IN REMIX](https://remix.ethereum.org/)
 
+[GET API KEY ETHERSCAN](https://etherscan.io/apidashboard)
+
 # Setup RPC in Wallet :
 - Network name: Oasis Sapphire Testnet
 
